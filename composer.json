@@ -1,0 +1,13 @@
+{
+    "require": {
+        "knplabs/github-api": "^3.14",
+        "symfony/http-client": "^7.1",
+        "nyholm/psr7": "^1.8",
+        "symfony/console": "^7.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
